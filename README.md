@@ -142,7 +142,7 @@ The properties you can configure are as follows.
         console.log('Return value from the datepicker popup is : ' + val, new Date(val));
       },
       closeCallback: function(){ //Optional
-        // do some thing when the user clicks the modal/popup's close/cancel button
+        // do something when the user clicks the modal/popup's close/cancel button
       },
       disabledDates: [            //Optional
         new Date(2016, 2, 16),
