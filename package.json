@@ -1,0 +1,19 @@
+{
+  "name": "nirby-ionic-datepicker",
+  "version": "0.0.1",
+  "description": "A date picker for ionic framework",
+  "main": "./dist/ionic-datepicker.bundle.min.js",
+  "scripts": {},
+  "author": "https://github.com/haythemOUE, haythem@nirbyapp.com",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "*",
+    "del": "*",
+    "gulp-concat": "*",
+    "gulp-css2js": "*",
+    "gulp-minify-html": "*",
+    "gulp-ng-html2js": "*",
+    "gulp-uglify": "*"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "ionic-datepicker",
+  "version": "0.0.1",
+  "authors": [
+    "haythem ouederni <haythem@nirbyapp.com>"
+  ],
+  "description": "A date picker for ionic framework",
+  "main": [
+    "./dist/ionic-datepicker.bundle.min.js"
+  ],
+  "keywords": [
+    "ionic-datepicker",
+    "ionic",
+    "datepicker",
+    "datepicker for ionic",
+    "datepicker for ionic framework"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/haythemOUE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ionic": ">=0.9.27"
+  }
+}
