@@ -25,11 +25,11 @@ This is an `nirby-ionic-datepicker` bower component, which can be used in any Io
 
 1) In your project folder, please install this plugin using bower
 
-`bower install ionic-datepicker --save`
+`bower install nirby-ionic-datepicker --save`
 
-This will install the latest version of this plugin. If you wish to install any specific version(eg : 0.9.0) then
+This will install the latest version of this plugin. If you wish to install any specific version(eg : 0.0.1) then
 
-`bower install ionic-datepicker#0.9.0 --save`
+`bower install nirby-ionic-datepicker#v0.0.1 --save`
 
 2) Specify the path of  `ionic-datepicker.bundle.min.js` in your `index.html` file.
 
