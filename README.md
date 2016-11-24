@@ -2,7 +2,7 @@ This is a fork from the original https://www.bithound.io/github/rajeshwarpatloll
 
 ##Introduction:
 
-This is an `ionic-datepicker` bower component, which can be used in any Ionic framework's application. No additional plugins required for this component.
+This is an `nirby-ionic-datepicker` bower component, which can be used in any Ionic framework's application. No additional plugins required for this component.
 
 [View Demo](http://rajeshwarpatlolla.github.io/DatePickerForIonicFramework/demo/ "Demo")
 
