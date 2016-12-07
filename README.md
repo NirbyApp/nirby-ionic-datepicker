@@ -15,10 +15,12 @@ This is an `nirby-ionic-datepicker` bower component, which can be used in any Io
 
 ## Major modifications brought for Nirby needs
 1) Adding the closeDatePicker service
+
 2) Adding closeCallback attribute : this callback is called when the user clicks the "cancel" button
 
 ## For bundle generation
 1) import the node dependencies by running : npm install
+
 2) create the min bundle file by running : gulp make-bundle
 
 ##How to use:
